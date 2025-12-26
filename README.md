@@ -107,4 +107,14 @@ Extract the project folder and open it in **VS Code**.
 ### Step 2: Install Dependencies
 Open terminal (Command Prompt preferred on Windows) and run:
 ```bash
-
+npm install
+```
+Step 3: Run the Project
+```bash
+npm run dev
+```
+Step 4: Open in Browser
+Open the URL shown in terminal (usually):
+```
+http://localhost:5173
+```
